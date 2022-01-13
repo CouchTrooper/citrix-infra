@@ -1,6 +1,6 @@
 param cloudconnectornames array = [
   'cc001'
-  'ns002'
+  'cc002'
 ]
 param cloudConnectorVMSize string
 param cloudConnectorOffer string 
