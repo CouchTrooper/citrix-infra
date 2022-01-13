@@ -9,7 +9,7 @@ param nsNames array = [
 ]
 param cloudconnectornames array = [
   'cc001'
-  'ns002'
+  'cc002'
 ]
 param rgMgmtName string = 'rg-mgmt'
 param rgWlName string = 'rg-wl'
